@@ -52,3 +52,6 @@ Requests are authenticated using the `Authorization` header and value `Bearer: {
 Express middlewares are defined in `middlewares/authorization/auth.js` that can be used to authenticate requests. The `required` middlewares returns `401` or `403`.
 
 Detailed information can be found in [this specifications](./question-answer-specifications.md).
+
+## Project ScreenShot :point_down:
+![](question-answer-rest-api-screenshot.png)
