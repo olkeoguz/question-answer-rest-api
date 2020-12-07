@@ -2,9 +2,6 @@
 
 In this project, I created a backend Rest Api that includes basic functionalities that a simple Q&A website provides. This Api can be consumed by any frontend technologies such as React, Angular etc. All of the functionalities of this Rest Api are listed below.
 
-Note : This api is still being developed. Feel free to contribute this project.
-
-
 ## Questions
 
 #### Public Operations
