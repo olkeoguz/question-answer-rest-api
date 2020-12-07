@@ -55,3 +55,7 @@ Detailed information can be found in [this specifications](./question-answer-spe
 
 ## Project ScreenShot :point_down:
 ![](question-answer-rest-api-screenshot.png)
+
+![](screenshot2.png)
+
+
